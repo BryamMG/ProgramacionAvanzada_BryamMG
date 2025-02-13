@@ -15,7 +15,6 @@ El repositorio está estructurado de la siguiente manera:
 
 📂 Evaluacion-de-Metodos-de-Ordenamiento
 * 📂 notebook Jupyter   # Contiene el archivo Jupyter Notebook con la implementación y análisis
-* 📂 src         # Contiene los scripts de Python con los algoritmos de ordenamiento
 * 📂 Reporte.pdf   # Contiene el informe final en PDF con los resultados y conclusiones
 * README.md      # Descripción general del proyecto, instrucciones y objetivos
 
