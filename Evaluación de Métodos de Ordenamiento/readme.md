@@ -14,9 +14,9 @@ Este proyecto consiste en la implementación y evaluación de los algoritmos de 
 El repositorio está estructurado de la siguiente manera:
 
 📂 Evaluacion-de-Metodos-de-Ordenamiento
-* 📂 notebooks   # Contiene el archivo Jupyter Notebook con la implementación y análisis
+* 📂 notebook Jupyter   # Contiene el archivo Jupyter Notebook con la implementación y análisis
 * 📂 src         # Contiene los scripts de Python con los algoritmos de ordenamiento
-* 📂 reportes    # Contiene el informe final en PDF con los resultados y conclusiones
+* 📂 Reporte.pdf   # Contiene el informe final en PDF con los resultados y conclusiones
 * README.md      # Descripción general del proyecto, instrucciones y objetivos
 
 ## Instrucciones para Ejecutar el Código en Jupyter Notebook
