@@ -22,15 +22,16 @@ El repositorio está estructurado de la siguiente manera:
 ## Instrucciones para Ejecutar el Código en Jupyter Notebook
 
 Opción 1: Google Colab
+
 Si no deseas instalar nada en tu computadora, puedes ejecutar el código en Google Colab subiendo el archivo .ipynb en la plataforma.
 
 Opción 2: Jupyter Notebook en Local
+
 1. Instalación de Jupyter Notebook
 Si tienes Anaconda instalado, simplemente escribe en el buscador "Jupyter" y abre el programa.
 Si no tienes Anaconda, instala Jupyter Notebook ejecutando:
 
-*
-pip install notebook
+*pip install notebook
 
 3. Clonar el Repositorio
 Para obtener el código y ejecutarlo en tu máquina, clona el repositorio:
