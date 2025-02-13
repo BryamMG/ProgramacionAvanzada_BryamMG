@@ -36,8 +36,8 @@ Si no tienes Anaconda, instala Jupyter Notebook ejecutando:
 2. Clonar el Repositorio
 Para obtener el código y ejecutarlo en tu máquina, clona el repositorio:
 
-* git clone https://github.com/tu_usuario/Algoritmos_Ordenamiento.git
-cd Algoritmos_Ordenamiento
+* git clone https://github.com/tu_usuario/Evaluacion de Metodos de Ordenamiento.git
+cd Evaluacion de Metodos de Ordenamiento
 
 3. Ejecutar Jupyter Notebook
 Abre Jupyter Notebook desde la terminal con:
