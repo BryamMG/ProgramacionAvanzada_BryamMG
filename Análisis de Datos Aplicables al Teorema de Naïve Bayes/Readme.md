@@ -69,5 +69,5 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 
 ---
-**Autores:** Bryam
+**Autores:** Bryam MG
 **Fecha:** 01/03/2025
