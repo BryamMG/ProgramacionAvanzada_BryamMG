@@ -26,6 +26,7 @@ El repositorio está estructurado de la siguiente manera:
 * 📂 Reporte.pdf → Contiene el informe final en formato PDF con los resultados, análisis y conclusiones del proyecto.  
 * README.md → Descripción general del proyecto, estructura del repositorio, instrucciones de ejecución y objetivos.
 
-
+**Autor:** Bryam MG  
+**Fecha:** Abril 2025
 
 
